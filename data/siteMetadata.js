@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'My junkyard',
   author: 'Cafecitoroot',
-  headerTitle: 'Bug Bounty Hunter impostor',
+  headerTitle: 'Cybersecurity impostor',
   description: 'Faking im a hacker until I can fake something cooler',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -11,7 +11,7 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'cafecitoroot@gmail.com',
-  //  github: 'https://github.com',
+  github: 'https://github.com/CafeciToRoot',
   //  twitter: 'https://twitter.com/Twitter',
   //  facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
