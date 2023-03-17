@@ -1,7 +1,7 @@
 ---
-title: Sample .md file
-date: '2016-03-08'
-tags: ['markdown', 'code', 'features']
+title: XSS in Shopify via custom app development
+date: '2023-03-18'
+tags: ['bug-bounty', 'shopify', 'xss']
 draft: false
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---

@@ -1,16 +1,10 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Cafecito
+avatar: /static/images/sparrowhawk-avatar.jpg
+occupation: Pentester, Bug Bounty Hunter
+hackthebox: 'https://app.hackthebox.com/profile/434135'
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Born in Uruguay, living in Spain.
+Bachelor's Degree in Informatics Engineering (UPV).
+Worked as a Pentester for 2 years until I decided to go full time Bug Bounty Hunter
