@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'My junkyard',
   author: 'Cafecitoroot',
   headerTitle: 'Cybersecurity impostor',
-  description: 'Faking im a hacker until I can fake something cooler',
+  description: 'Pretending im a hacker until I can pretend beign something cooler',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://cafecitoroot.com',
