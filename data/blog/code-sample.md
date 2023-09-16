@@ -1,5 +1,5 @@
 ---
-title: XSS in Shopify via custom app development
+title: XSS in Shopify via..
 date: '2023-03-18'
 tags: ['bug-bounty', 'shopify', 'xss']
 draft: false
