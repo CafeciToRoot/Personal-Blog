@@ -8,4 +8,4 @@ hackthebox: 'https://app.hackthebox.com/profile/434135'
 
 Living in Spain.
 Bachelor's Degree in Informatics Engineering (UPV).
-Worked as a Pentester for 2 years until I decided to go full time Bug Bounty Hunter
+Bug Bounty Hunter.
