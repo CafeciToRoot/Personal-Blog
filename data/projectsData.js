@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: 'Project 1',
-    description: `Project 1 description`,
+    description: `Cuando inventé google`,
     imgSrc: '/static/images/google.png',
     href: 'https://www.google.com',
   },
